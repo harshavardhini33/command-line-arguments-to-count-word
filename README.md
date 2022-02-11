@@ -26,9 +26,11 @@ Run the program to determine the number of words in the file created.
 ## PROGRAM:
 
 ### OUTPUT:
-![doc](./h.png)
+![doc](https://user-images.githubusercontent.com/93427208/153631614-ea0929e2-9543-4617-aed6-bf94b216464a.png)
 
-![doc](./hh.png)
+
+![doc](https://user-images.githubusercontent.com/93427208/153631657-9147a347-8ceb-4c6d-a7c3-7f73ccf87c33.png)
+
 
 
 ## RESULT:
